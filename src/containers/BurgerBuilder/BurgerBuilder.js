@@ -72,7 +72,6 @@ class BurgerBuilder extends Component {
 
   purchaseHandler = () => {
     this.setState({purchasing: !this.state.purchasing})
-
   }
 
   // purchaseCancelHandler = () => {
