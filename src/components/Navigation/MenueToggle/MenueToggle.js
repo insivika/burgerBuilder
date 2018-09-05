@@ -1,9 +1,16 @@
 import React from 'react';
+import classes from './MenueToggle.css';
 
 
 const toggle = (props) => (
 
-<div onClick={props.toggleSideDrawer}>Menue</div>
+<div className={classes.MenueToggle} onClick={props.toggleSideDrawer}>
+
+  <div></div>
+  <div></div>
+  <div></div>
+
+</div>
 
 );
 
