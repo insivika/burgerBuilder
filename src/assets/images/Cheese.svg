@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="14px" viewBox="0 0 291 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Cheese</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Burger-Builder-UI" transform="translate(-325.000000, -463.000000)" fill="#FFE800">
+            <g id="Cheese" transform="translate(325.000000, 463.000000)">
+                <rect id="Rectangle-2" x="0" y="0" width="291" height="14" rx="7"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

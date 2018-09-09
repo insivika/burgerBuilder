@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="39px" viewBox="0 0 291 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Meat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.7210951%" y1="6.93205502%" x2="52.7210951%" y2="86.1310434%" id="linearGradient-1">
+            <stop stop-color="#D16824" offset="0%"></stop>
+            <stop stop-color="#725300" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Burger-Builder-UI" transform="translate(-325.000000, -510.000000)" fill="url(#linearGradient-1)">
+            <g id="Meat" transform="translate(325.000000, 510.000000)">
+                <rect id="Rectangle-2" x="0" y="0" width="291" height="39" rx="13"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
